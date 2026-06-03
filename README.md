@@ -44,12 +44,6 @@ Aplicación interactiva en **C# Windows Forms (.NET 8)** que implementa un **gra
 
 ---
 
-## 🖼️ Capturas de pantalla
-
-*(Insertar aquí las capturas de la aplicación en funcionamiento)*
-
----
-
 ## 📋 Requisitos del sistema
 
 - **Sistema operativo**: Windows 10 / 11
@@ -113,14 +107,6 @@ ProyectoFinal/
 | Windows Forms | — |
 | .NET SDK | 8.0.x |
 | Target Framework | `net8.0-windows` |
-
----
-
-## 📄 Documentación académica
-
-El proyecto incluye un informe técnico completo en formato Word:
-
-- **`Informe_Proyecto.docx`** — Documento académico con introducción, marco teórico, desarrollo, diagnóstico (40 %), pronóstico, recomendaciones, conclusión, bibliografía y anexos.
 
 ---
 
