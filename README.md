@@ -1,4 +1,4 @@
-# Graph Traversal — BFS & DFS
+# Graph Vision — BFS & DFS
 
 **Estructura de Datos | Proyecto Final**
 
